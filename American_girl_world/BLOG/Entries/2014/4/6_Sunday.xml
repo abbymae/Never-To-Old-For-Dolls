@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="935F3108-4433-47E8-9F24-0257256A6429">
+  <lastEdited clientType="local-build-20140406" date="2014-04-06 18:27:31 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Sunday, April 6, 2014</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Today is Sunday! Today we went to church!We dressed up . It was so much fun we are going to go to the AG Zoo today we will post some pictures later.We can&#x2019;t wait to go we hope that we can get pony rides and pet the elephants.We are so happy.Post some pics later and write.Bye!</richText>
+  </textBox>
+</content>

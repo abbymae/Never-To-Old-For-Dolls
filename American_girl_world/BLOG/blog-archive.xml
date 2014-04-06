@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>BLOG</title>
+    <link>file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG</link>
+    <description>
+Welcome to our blog!
+
+Us
+
+
+
+
+Kaya
+
+
+
+
+
+Saige
+
+
+
+
+
+Holly
+
+
+
+
+
+Kannani</description>
+    <item>
+      <title>Zoo</title>
+      <link>file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG/Entries/2014/4/6_Zoo.html</link>
+      <guid isPermaLink="false">e17722cb-aff4-45dd-9ae2-cef01db6d02b</guid>
+      <pubDate>Sun, 6 Apr 2014 13:59:58 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG/Entries/2014/4/6_Zoo.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Sunday</title>
+      <link>file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG/Entries/2014/4/6_Sunday.html</link>
+      <guid isPermaLink="false">8331fcbc-2434-497b-85ae-5a1b90ba97da</guid>
+      <pubDate>Sun, 6 Apr 2014 10:58:37 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG/Entries/2014/4/6_Sunday.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Saturday The Best Day</title>
+      <link>file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG/Entries/2014/4/5_Saturday_The_Best_Day.html</link>
+      <guid isPermaLink="false">e970667d-3d28-4798-96a8-dbee154353ee</guid>
+      <pubDate>Sat, 5 Apr 2014 18:05:20 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG/Entries/2014/4/5_Saturday_The_Best_Day.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="935F3108-4433-47E8-9F24-0257256A6429">
+  <lastEdited clientType="local-build-20140406" date="2014-04-06 18:27:31 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Saturday</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday The Best Day&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, April 5, 2014</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>  Our family thinks that Saturday is one of the best days of the week. We think this because we get to stay home in our pjs and watch TV or read or write or play piano or play outside.We LOVE the outdoors and we love to hike.Today we played with our  dolls watched TV played FRIV read and of course played outside.</richText>
+  </textBox>
+</content>

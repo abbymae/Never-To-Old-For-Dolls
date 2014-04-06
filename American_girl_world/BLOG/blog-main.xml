@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>BLOG</title>
+    <link>file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG</link>
+    <description>
+Welcome to our blog!
+
+Us
+
+
+
+
+Kaya
+
+
+
+
+
+Saige
+
+
+
+
+
+Holly
+
+
+
+
+
+Kannani</description>
+    <item>
+      <title>Zoo</title>
+      <link>file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG/Entries/2014/4/6_Zoo.html</link>
+      <guid isPermaLink="false">e17722cb-aff4-45dd-9ae2-cef01db6d02b</guid>
+      <pubDate>Sun, 6 Apr 2014 13:59:58 -0400</pubDate>
+      <description>The Zoo was so much fun! We saw so many awesome animals.We got &#x201C;Dots&#x201D; for the first time and we LOVED  them! MMMMM! I want many more.My favorite animal was the Cheetah.We had a lot of fun and got super yummy hot dogs.</description>
+      <iweb:image href="Media/sarah-kangaroo.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG/Entries/2014/4/6_Zoo.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Sunday</title>
+      <link>file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG/Entries/2014/4/6_Sunday.html</link>
+      <guid isPermaLink="false">8331fcbc-2434-497b-85ae-5a1b90ba97da</guid>
+      <pubDate>Sun, 6 Apr 2014 10:58:37 -0400</pubDate>
+      <description>Today is Sunday! Today we went to church!We dressed up . It was so much fun we are going to go to the AG Zoo today we will post some pictures later.We can&#x2019;t wait to go we hope that we can get pony rides and pet the elephants.We are so happy.Post some pics later and write.Bye!</description>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG/Entries/2014/4/6_Sunday.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Saturday The Best Day</title>
+      <link>file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG/Entries/2014/4/5_Saturday_The_Best_Day.html</link>
+      <guid isPermaLink="false">e970667d-3d28-4798-96a8-dbee154353ee</guid>
+      <pubDate>Sat, 5 Apr 2014 18:05:20 -0400</pubDate>
+      <description>Our family thinks that Saturday is one of the best days of the week. We think this because we get to stay home in our pjs and watch TV or read or write or play piano or play outside.We LOVE the outdoors and we love to hike.Today we played with our  dolls watched TV played FRIV read and of course played outside.</description>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG/Entries/2014/4/5_Saturday_The_Best_Day.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/abbypowell/Desktop/Never-To-Old-For-Dolls/American_girl_world/BLOG</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>
